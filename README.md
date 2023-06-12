@@ -1,4 +1,4 @@
-###Hi!
+### Hi!
 
 I'm Jeff and i am currently studying computer science at NTNU. 
 I am an avid learner and enjoy subjects such as AI, and technology withing XR.
